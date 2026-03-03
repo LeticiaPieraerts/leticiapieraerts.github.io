@@ -11,3 +11,8 @@ nav:
   - Research: research.md
   - CV: cv.md
   - Contact: contact.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
