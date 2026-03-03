@@ -16,3 +16,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+
+extra_files:
+  - googlefd5d54166dc293b1.html
