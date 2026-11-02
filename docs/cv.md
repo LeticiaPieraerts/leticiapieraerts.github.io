@@ -1,2 +1,7 @@
-## You can find my CV [here](cv.pdf).
+---
+hide:
+  - toc
+---
+
+## You can find my CV [here](cv.pdf)
 
