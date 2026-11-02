@@ -1,12 +1,16 @@
 # Projects
 
+**Job Market Paper**
+
+*Who benefits from the energy transition? Market power and flexibility in retail electricity markets*, with Elise Viadere (ULB)
+
+The energy transition widens intraday spot price spreads---the difference between the most and least expensive hours of the day---raising the value of consumers' flexibility. We study a monopolist retailer offering contracts to consumers with heterogeneous, privately known intraday flexibility. In equilibrium, the retailer screens consumers through the contracts' price spread, and extracts surplus through the price level. Only the most flexible face the full spot price spread and consume efficiently; less flexible consumers face compressed price spreads. This distortion increases with the share of flexible consumers. The retailer captures most flexibility gains; low-flexibility consumers retain none.
+
 **Work in progress**
 
-*Vertical arrangements with real-time pricing: Evidence from the Spanish electricity markets*
+*Vertical arrangements and market power with real-time pricing: Evidence from the Spanish electricity markets*
 
-*Who benefits from the energy transition? Profits and welfare in retail electricity markets*, with Elise Viadere (ULB)
-
-*Contracts and real-time exposure of large electricity consumers*, with Estelle Cantillon (ULB, CEPR)
+*Electricity market architecture, contracts and real-time price exposure of large industrial consumers*, with Estelle Cantillon (ULB, CEPR)
 
 **Policy work** 
 
