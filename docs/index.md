@@ -7,6 +7,6 @@ I am a PhD candidate at ECARES at the Université libre de Bruxelles, under the 
 
 My research focuses on energy and environmental economics. I study the design of electricity markets to support the energy transition. I am particularly interested in understanding how policies in the (downstream) retail market can affect price formation and market power in the (upstream) wholesale market. 
 
-In the Spring 2026 I visited the Toulouse School of Economics (TSE), hosted by Stefan Ambec.
+In Spring 2026 I visited the Toulouse School of Economics (TSE), hosted by Stefan Ambec in the Environmental Group.
 
 I am on the Job Market this year.
