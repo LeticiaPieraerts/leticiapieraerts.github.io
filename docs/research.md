@@ -8,7 +8,7 @@ hide:
 ## Job Market Paper
 
 **Who benefits from the energy transition? Market power and flexibility in retail electricity markets**<br>
-with Elise Viadere (ULB)
+with Elise Viadere (ULB)  [ECARES Working Paper 2026-35](https://ecares.ulb.be/wp-content/uploads/2026/11/WPECARES202635.pdf)<br>
 
 <p style="text-align: justify;"><strong>Abstract:</strong> <em>The energy transition widens intraday spot price spreads — the difference between the most and least expensive hours of the day — raising the value of consumers' flexibility. We study which contracts a monopolist offers to consumers with privately known, heterogeneous flexibility. In equilibrium, the retailer screens consumers by the contracts' price spread and offers a menu of dynamic contracts with different spot price signals. Only the most flexible face the full spot price spread; less flexible consumers face a compressed spread. This distortion increases with the share of flexible consumers. The retailer captures most flexibility gains; low-flexibility consumers retain none.</em></p>
 
